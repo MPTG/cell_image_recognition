@@ -1,0 +1,5 @@
+{
+  "name": "config",
+  "model_path": "/Users/maciekandrzejewski/projects/cell_image_recognition/data/weights/best_yolo10s_22.10.pt",
+  "type": "video"
+}
